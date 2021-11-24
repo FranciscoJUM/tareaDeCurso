@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarteraDigital", "CarteraDigital\CarteraDigital.csproj", "{844E2D79-4E49-476C-BDFE-6EC74F09EFB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{005F727E-307F-45F3-ABBD-D87B1DE4D3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura", "Infraestructura\Infraestructura.csproj", "{FDEE9E5F-EA14-4B34-BDF9-92CA294B9750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cortina", "Cortina\Cortina.csproj", "{CFC2A4A5-B1BD-4C78-9527-AA69179991E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE7089FD-2691-4627-9582-4F89790CDDAD}"
+	ProjectSection(SolutionItems) = preProject
+		TemasUsados.txt = TemasUsados.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844E2D79-4E49-476C-BDFE-6EC74F09EFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844E2D79-4E49-476C-BDFE-6EC74F09EFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844E2D79-4E49-476C-BDFE-6EC74F09EFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844E2D79-4E49-476C-BDFE-6EC74F09EFB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005F727E-307F-45F3-ABBD-D87B1DE4D3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005F727E-307F-45F3-ABBD-D87B1DE4D3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005F727E-307F-45F3-ABBD-D87B1DE4D3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005F727E-307F-45F3-ABBD-D87B1DE4D3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEE9E5F-EA14-4B34-BDF9-92CA294B9750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEE9E5F-EA14-4B34-BDF9-92CA294B9750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEE9E5F-EA14-4B34-BDF9-92CA294B9750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEE9E5F-EA14-4B34-BDF9-92CA294B9750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC2A4A5-B1BD-4C78-9527-AA69179991E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC2A4A5-B1BD-4C78-9527-AA69179991E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC2A4A5-B1BD-4C78-9527-AA69179991E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC2A4A5-B1BD-4C78-9527-AA69179991E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA2CEFD-F21B-43E9-B5AC-DBE89A4834E9}
+	EndGlobalSection
+EndGlobal

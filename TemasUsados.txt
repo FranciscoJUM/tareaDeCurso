@@ -1,0 +1,29 @@
+Temas utilizados en ete proyecto
+
+
+para este proyecto quise enfocarme mas en la aplicacion de los conceptos vistos a lo largo del semestre en Programacion 1,
+diseñando una app simple basada en una app de android "Gastos". es una app de administracion de ingresos y egresos muy simple.
+
+Este proyecto es simple pero posee casi todos los conceptos vistos, como: 
+
+
+Herencia
+Interface
+Sevicios
+Genericos
+Metodos genericos
+Json
+Auto fact
+Importacion de paqutes 
+Arreglos: recorrer, buscar, seleccionar, utilizar, mostrar, entre otros 
+Factories
+Abstraccion
+Abierto cerrado
+ciclos 
+inyeccion
+Modificadores: publico, privado, etc
+Metodos privados, publicos, de filtro, CRUDS
+Listas
+Expreciones Lamda
+Enums
+Arquitectura: Clean
